@@ -21,8 +21,8 @@ A Node.js application that fetches and serves cryptocurrency statistics for Bitc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/crypto-stats-app.git
-cd crypto-stats-app
+git clone https://github.com/dalaixlmao/KoinX-assignment.git
+cd KoinX-assignment
 ```
 
 2. Install dependencies:
